@@ -12,7 +12,9 @@ To update code from laptop to repository:
 1. open command prompt 
 2. type "cd Documents"
 3. type "cd command-project"
-4. type "git push"
+4. Type into terminal: “git add .” and then hit enter.
+5. Type into terminal “git status” and then hit enter (this step is optional)
+6. Type into terminal “ git commit -m 'type any message here' ” and then hit enter.
 
 Now the code on your computer is up on the repository and ready to pull from the raspberry pi
 
